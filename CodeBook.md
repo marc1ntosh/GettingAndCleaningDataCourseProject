@@ -39,9 +39,9 @@ Only measurements on mean and standard deviation (Std) considered.
 [79] "fBodyBodyGyroJerkMagMeanFreq"
 
 ## Activity Labels
-- 1 WALKING: test subject walking during measurement
-- 2 WALKING_UPSTAIRS: test subject walking upstairs during test
-- 3 WALKING_DOWNSTAIRS: test subject walking downstairs during test
-- 4 SITTING: test subject sitting during test
-- 5 STANDING: test subject standing during test
-- 6 LAYING: test subject laying during test
+- Value 1 = WALKING: test subject walking during measurement
+- Value 2 = WALKING_UPSTAIRS: test subject walking upstairs during test
+- Value 3 = WALKING_DOWNSTAIRS: test subject walking downstairs during test
+- Value 4 = SITTING: test subject sitting during test
+- Value 5 = STANDING: test subject standing during test
+- Value 6 = LAYING: test subject laying during test
