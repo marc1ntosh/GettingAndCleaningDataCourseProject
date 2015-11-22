@@ -7,7 +7,8 @@ This Code Book describes the data files in "tidy_data.txt"
 - subject: Test subject ID
 - activity: Type of activity performed by test subject with respect to measurement.
 
-## Measurements (only measurements on mean and standard deviation (Std) considered)
+## Measurements
+### (only measurements on mean and standard deviation (Std) considered)
 [1] "tBodyAccMeanX"                "tBodyAccMeanY"                "tBodyAccMeanZ"               
 [4] "tBodyAccStdX"                 "tBodyAccStdY"                 "tBodyAccStdZ"                
 [7] "tGravityAccMeanX"             "tGravityAccMeanY"             "tGravityAccMeanZ"            
